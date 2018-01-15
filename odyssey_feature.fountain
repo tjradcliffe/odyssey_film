@@ -188,7 +188,7 @@ Some days shooting first and never asking questions sounds like a good idea.
 Darsono finds that idea kind of hot.
 
 DARSONO
-That attitude helped their human ancestors survive and have children while their hostile planet was killing everyone else. After enough generations they are almost a different species, although I am told we can still interbreed... if you like that kind of thing.
+That attitude helped their human ancestors survive and have children while their hostile planet was killing everyone else. After enough generations they are almost a different species, although I am told we can still interbreed.
 
 Draguer shuts him down hard.
 
@@ -236,7 +236,7 @@ She gets control of herself and looks at her hands. They are shaking. She takes 
 DRAGUER
 Control, get me Doctor Mandelbrot. 
 
-There is a ping sound and DOCTOR SERENA MANDELBROT (30's or 40's, about the same age as the Captain) appears on the screen. She is both motherly and cerebral: caring, thoughtful and kind. Like the others, any race will do: this is the future, and if the crew is all one general ethnicity it will be oriental or South Asian, not European. Like Clang and Darsono and Anderson, her quarters behind her appear identical to Draguer's.
+There is a ping sound and Doctor Mandelbrot (30's or 40's, about the same age as the Captain) appears on the screen. She is both motherly and cerebral: caring, thoughtful and kind. Like the others, any race will do: this is the future, and if the crew is all one general ethnicity it will be oriental or South Asian, not European. Like Clang and Darsono and Anderson, her quarters behind her appear identical to Draguer's.
 
 MANDELBROT
 How can I help you, Captain?
@@ -264,7 +264,7 @@ Working...
 
 There are a few seconds of silence as both wait for the result, Draguer anxiously, Mandelbrot with curious concern.
 
-MANDELBROT
+MANDELBROT (CONT)
 That's odd...
 
 DRAGUER
@@ -277,7 +277,7 @@ DRAGUER
 Some?
 
 MANDELBROT
-Half. One of your parents, Captain, was a karamean... you didn't know?
+Half. One of your parents, Captain, was a karamean... You didn't know?
 
 Draguer is shocked, stunned, defensive, angry.
 
@@ -285,7 +285,7 @@ DRAGUER
 I suspected. I didn't know. You can't tell anyone. Do you hear me? Not anyone!
 
 MANDELBROT
-Doctor Huxley has full access to this system. 
+Surgeon-Major Huxley has full access to this system. 
 
 DRAGUER
 Lock him out! 
@@ -539,14 +539,16 @@ An alarm sounds. He looks concerned but calm. He focuses on the instrument panel
 CLANG
 Sample port closed.
 
-Touches a few other controls. The ship shakes harder and starts to tumble. The stars wheel by. He pulls a lever. The alarm stops, but the ship is still tumbling, dead in space. He's not so confident any more. His underlying self-doubt shows through. He collects himself and puts on a big confident grin.
+Touches a few other controls. The ship shakes harder and starts to tumble. The stars wheel by. He pulls a lever. The alarm stops, but the ship is still tumbling, dead in space. He's not so confident any more. His underlying self-doubt shows through. He tries a couple of things, but nothing works, and then the power goes out entirely.
 
 CLANG
 Control, get me Anderson.
 
+He collects himself and puts on a big confident grin.
+
 INT. ANDERSON'S QUARTERS -- DAY
 
-ENGINEER KAI ANDERSON is practicing his dance moves when the communicator chimes. He answers it. Clang appears. Anderson's shoulders slump. Clang again.
+Anderson is practicing his dance moves when the communicator chimes. He answers it. Clang appears. Anderson's shoulders slump. Clang again.
 
 ANDERSON
 What have you done now, fly-boy?
@@ -575,10 +577,6 @@ INT. ANDERSON'S QUARTERS -- DAY
 ANDERSON
 It means you shouldn't be out there, flyboy.
 
-EXT. SPACE -- DAY
-
-Clang's ship is adrift in the Cloud. There is a wink of light in the distance.
-
 INT. CLANG'S SCOUT-SHIP -- SPACE
 
 Clang looks hard into the distance. He's seen the light.
@@ -594,12 +592,26 @@ I think...
 
 He looks harder, then checks one of his instruments.
 
-CLANG
+EXT. SPACE -- DAY
+
+Clang's ship is adrift in the Cloud. There is a wink of light in the distance.
+
+CLANG (V.O.)
 I think it's another ship.
 
 EXT. WILCO'S SCOUTSHIP -- DAY
 
-A karamean fighter is tumbling in front of a misty starfield.
+A karamean fighter is tumbling in front of a misty starfield. It is fading in an out of view.
+
+INT. CLANG'S SCOUT-SHIP -- SPACE
+
+Clang is not sure he believes his eyes.
+
+CLANG
+It's... transparent?
+
+ANDERSON (V.O.)
+Like it has a stealth drive?
 
 INT. WILCO'S SHIP -- DAY
 
@@ -614,7 +626,7 @@ Control, get me the Captain.
 
 Draguer appears on screen.
 
-ANDERSON
+ANDERSON (CONT'D)
 Captain, you sent a scoutship out on a salvage mission?
 
 DRAGUER
@@ -642,45 +654,6 @@ ANDERSON
 Believe me, I won't.
 
 He picks up a flight helmet and closes the connection.
-
-The Captain's communicator pings. The Captain composes herself and then answers. Doctor Huxley appears on the screen.
-
-HUXLEY
-Congratulations, Captain. The Admiral told me about your success. Very... astute. 
-
-DRAGUER
-We're bringing in the salvage now. 
-
-HUXLEY
-Salvage?
-
-DRAGUER
-There's another ship in the cloud. And Clang has taken a sample--
-
-HUXLEY
-You sent one of your ships INTO the molecular cloud?
-
-DRAGUER
-Yes, I--
-
-HUXLEY
-You need to call it back. 
-
-DRAGUER
-We are already retrieving them. 
-
-HUXLEY
-Captain, you are a danger to your crew!
-
-DRAGUER
-At least I tell them everything I know!
-
-Huxley looks like he's about to snap back, then stops himself.
-
-HUXLEY
-Security through victory!
-
-He terminates the connection with a swipe of his arm.
 
 INT. ANDERSON'S SCOUTSHIP -- DAY
 
@@ -872,7 +845,7 @@ INT. CAPTAIN DRAGUER'S QUARTERS -- DAY (CONTINUOUS)
 Draguer gets up and paces. She looks at the amulet, squeezing it in her fist, as if she's trying to crush it.
 
 DRAGUER
-Control, if the Odysseus was equipped with this new Karamean stealth drive, how difficult would it be to reach their homeworld undetected?
+Control, if the Odysseus was equipped with this new Karamean stealth drive, how difficult would it be to cross the Front and reach their homeworld undetected?
 
 CONTROL
 There are many possible scenarios, Captain... Simulating...
@@ -880,13 +853,13 @@ There are many possible scenarios, Captain... Simulating...
 Drageur waits impatiently. She's working hard to stay calm.
 
 CONTROL (CONT'D)
-The situation is complicated, Captain, but in over 85% of simulations the Odysseus is able to enter the outer reaches of the Karamean system undetected. After that, I do not have sufficient data to estimate the odds of success.
+The situation is complicated, but in over 85% of simulations the Odysseus is able to cross the Front enter the outer reaches of the Karamean system undetected. After that, I do not have sufficient data.
 
 DRAGUER
 Why not?
 
 CONTROL
-No mission has ever entered the Karamean home system and returned, Captain. None of them have ever been heard from again.
+No mission has ever crossed the Front entered the Karamean home system and returned. None of them have ever been heard from again.
 
 DRAGUER
 That's about to change. Get me the Admiral.
@@ -960,7 +933,7 @@ MANDELBROT
 Once it got started, no one seemed to know how to stop it.
 
 WILCO
-I can talk to your engineer. And you still need pilots?
+I can talk to your engineer. And you still need pilots? Or engineering officers?
 
 MANDELBROT
 Yes...
@@ -973,28 +946,34 @@ INT. DARSONO'S QUARTERS -- DAY
 Darsono has a screen open with Drageur.
 
 DRAGUER
-Clang brought back a sample of negative matter from the cloud! And a Karmean ship that's mostly intact! If we can replicate the Karamean stealth drive we can head straight for their homeworld. No one has to know, not even Central Command!
+Clang brought back a sample of negative matter from the cloud! And a Karmean ship that's mostly intact, with a human in cryo-sleep on board. She's still alive! And if we can replicate the Karamean stealth drive we can going hunting past the front! They'd never know what hit them!
 
 DARSONO
-That's an interesting option, Captain. I'll take it under advisement in my discussions with Surgeon-Major Huxley and Engineer Anderson.
+I can see many possible uses for such a thing... if it can be made to work. Was the ship abandoned by its crew?
 
 DRAGUER
-I don't see what Huxely has to do with it.
+The pilot was dead.
 
 DARSONO
-I shouldn't tell you this, but I trust you, Captain. His research is the whole point of our mission. He has been tracking Karamean infiltrations by genetic tracers on the affected planets. He found evidence they were coming in through this region of space. You have confirmed that.
+But the body is intact? A complete Karamean cadaver!? You must get it to Surgeon-Major Huxley immediately!
 
 DRAGUER
-That's the point of all this? We already knew they're raiding our worlds! Kidnapping our people!
+Huxley?
 
 DARSONO
-But now we know where they are coming from. We can stop them. Discovering the negative matter cloud is a bonus. Nothing more.
+I shouldn't tell you this, but I trust you, Captain. His research is the whole point of our mission. He has been using samples of Karamean tissue recovered from your missions to investigate splicing them into humans to create perfect warriors.
 
 DRAGUER
-That's not enough! We have to kill them all!
+Making human-karamean clones? Thats... repulsive. 
 
 DARSONO
-Calm, Captain. Peace.
+Not everyone thinks so. Give Huxely the body, and get your engineers working on the stealth drive.
+
+DRAGUER
+We're going hunting, Admiral.
+
+DARSONO
+If you can make the drive work, Captain.
 
 Darsono's communicator pings. It's Huxley.
 
@@ -1007,22 +986,18 @@ HUXLEY
 I told you the Captain should not be in charge of the ship! I keep warning her, but still, she persists!
 
 DARSONO
-We need this ship, and we need her. You know that. 
-
-HUXLEY
-You saw what she did, she--
-
-DARSONO
-She outsmarted you. That is all I need to know to keep her in command. In fact, it's time we bring her into the loop, so I've told her the purpose of our mission. Now, have you had a chance to review the Captain's medical records, Surgeon-Major Huxley? In light of your researches I suspect you may find them... interesting.
+She outsmarted you. Have you reviewed the Captain's medical records? I suspect you may find them... interesting.
 
 HUXLEY
 Doctor Mandelbrot still has the Captain's latest scans under seal.
 
 DARSONO
-You need to convince the Doctor to cooperate with you, or you may as well go into cryo-sleep for the rest of the mission. You've been instrumental in getting us this far, but I have other experts ready for waking if you can't get results.
+You need to convince the Doctor to cooperate with you. In the meantime, the Captain has found an intact Karmean body for you to work on.
 
 HUXLEY
-I'll do my best, sir.
+Intact! That's marvelous! There's nothing I won't be able to accomplish!
+
+Huxley swipes out.
 
 INT. DRAGUER'S QUARTERS -- DAY
 
@@ -1037,24 +1012,24 @@ DRAGUER
 Security through... What do you have on the Karamean ship? 
 
 ANDERSON
-There was some kind of explosion on-board. It looks like an even more advanced stealth drive than the ones we just encountered, but a seal failed and it bled out the negative matter. 
+There was some kind of explosion on-board. It looks like an even more advanced stealth drive than the ones we just encountered, but a seal failed and it bled out most of the negative matter. There was just enough left to make it a little blury.
 
 DRAGUER
 They were trying to recharge it in the cloud?
 
 ANDERSON
-Looks that way. But something else went wrong. Some kind of internal discharge. I've been able to repair it and recharge it with the sample Clang brought back. 
+Looks that way. But something else went wrong. Some kind of internal discharge. I've been able to shut it down, repair it and recharge it with the sample Clang brought back. 
 
 DRAGUER
 Does it work? Can we cloak the Odysseus?
 
 ANDERSON
-It should work, but it needs a key. I've found it, but it was damaged in the explosion.
+It should work, but it needs a key to be restarted.
 
-Anderson holds up a crushed, twisted amulet like the on the Captain is wearing.
+Anderson holds up an amulet like the on the Captain is wearing. It is in peices.
 
 ANDERSON (CONT'D)
-It's not just the fancy shape that matters. I could machine one that looks the same. But it's made out of mix of metals, and the alloy has a pattern embedded in it. I don't think I can reproduce it.
+It was damaged in the explosion and came to peices when I pried it loose. It's not just the fancy shape that matters. I could machine one that looks the same, or weld it back together. But it's got a micro-alloy pattern embedded in it that has to be perfect or it won't work. I don't think I can fix it.
 
 Drageur holds up her amulet.
 
@@ -1099,7 +1074,7 @@ MANDELBROT
 She's been under a lot of stress!
 
 DARSONO
-We're approaching Vega, and will go into orbit for several days. I expect the crew will all get some much-needed R&R. Perhaps you could review the Captain's records with Surgeon-Major Huxley while she's downside. No one need know.
+We're approaching Vega, and will go into orbit for several days to refuel. I expect the crew will all get some much-needed R&R. Perhaps you could review the Captain's records with Surgeon-Major Huxley while she's downside. No one need know.
 
 MANDELBROT
 I... I'll think about it, Admiral.
@@ -1112,7 +1087,7 @@ A Karamean fighter sits in the hanger bay.
 
 INT. KARAMEAN SHIP -- DAY
 
-Captain Draguer sits in the flight chair of the Karamean fighter. She holds the amulet in one hand. She is talking to Anderson.
+Captain Draguer sits in the flight chair of the Karamean fighter. She is fascinated by her surroudings. Even a little in awe. She holds the amulet in one hand. She is talking to Anderson.
 
 DRAGUER
 I just insert the key?
@@ -1141,7 +1116,7 @@ I think I know someone who does
 
 INT. DOCTOR MANDELBROT'S QUARTERS -- DAY
 
-Mandelbrot is reviewing records on her screen. The glow of cold light on her face varies as she looks at different data, from text to x-rays to brighter images. The communicator pings. It is the Captain. She composes herself and swipes it in.
+Mandelbrot is reviewing records on her screen. The glow of cold light on her face varies as she looks at different data, from text to x-rays to brighter images. The communicator pings. It is the Captain, still in the Karamean ship. She composes herself and swipes it in. She is getting more and more angry as the conversation progresses.
 
 MANDELBROT
 How can I help you, Captain?
@@ -1189,7 +1164,7 @@ If looks could kill, Drageur would be a murderer.
 MANDELBROT (CONT)
 I understand you aren't happy about that. I don't care. You're going to go downside, and you're going to enjoy yourself. When you get back, I'll release Ensign Wilco for active duty. Captain.
 
-Drageur just stares at her.
+Drageur just stares at her. She is shaking with rage.
 
 MANDELBROT (CONT)
 Please, Captain?
@@ -1206,23 +1181,6 @@ Patrol 42, this is Vega Central. Investigate disturbance at the Hotel Conundrum.
 PATROL 42 (V.0.)
 Roger. We're right there. Just some shippies getting into it. Looks like two squads... Uh oh.
 
-There are sounds of a struggle coming over the comm. The voices of Clang and Anderson can be heard shouting insults, which are returned by a melee of other voices, including VOICE1 and VOICE2.
-
-CLANG (V.O.)
-We're tougher, we've been on mission longer, and we have more kills!
-
-VOICE1 (V.O.)
-Yeah right! Losers!
-
-ANDERSON (V.O.)
-Highest efficiency rating in the fleet! That's us!
-
-VOICE2 (V.O.)
-You got the award for Ugliest Engineer, too!
-
-VEGA SECURITY (V.O.)
-What's wrong?
-
 Sounds of a scuffle come over the comm.
 
 PATROL 42 (V.0.)
@@ -1230,6 +1188,17 @@ It's the Iliad and the Odysseus. Those guys hate each other. I'm gonna need back
 
 VEGA SECURITY (V.O.)
 On it's way.
+
+Sounds of fight get louder.
+
+PATROL 42 (V.0.)
+I'm gonna need more backup!
+
+VEGA SECURITY (V.O.)
+Patrol 48, you need to back up '42 at Hotel C.
+
+PATROL 48 (V.O.)
+On our way.
 
 A SNARL comes over the comm. There are shrieks.
 
@@ -1239,8 +1208,10 @@ Holy...!
 VEGA SECURITY (V.O.)
 Patrol 42, report!
 
+Everthing goes quiet.
+
 PATROL 42 (V.0.)
-I need help here now
+I need help here right now.
 
 EXT. DRAGUER'S SCOUT SHIP -- SPACE
 
@@ -1260,7 +1231,7 @@ DARSONO
 And did you have any time to enjoy yourself?
 
 DRAGUER
-What happens on Vega... stays on Vega, Admiral.
+What happens on Vega... stays on Vega.
 
 She swipes the connection closed.
 
@@ -1287,13 +1258,15 @@ What happens on Vega... stays on Vega.
 
 He swipes and closes the connection.
 
-Mandelbrot's communicator pings. She gestures and ANDERSON appears on her screen.
+Mandelbrot's communicator pings. She gestures and ANDERSON appears on her screenn holding his hand in front of his face by the wrist.
 
 ANDERSON
 Good morning, doctor. I'm going to need some pain-killers.
 
 MANDELBROT
 Don't tell me. Sprained wrist?
+
+Anderson lowers his hand to reveal a black eye.
 
 ANDERSON
 What happens on Vega... stays on Vega!
@@ -1315,30 +1288,7 @@ INT. ANDERSON'S QUARTERS -- DAY
 Anderson is massaging his shoulder and working the arm and hand as if it has been strained somehow.
 
 ANDERSON
-Control?
-
-CONTROL
-Yes?
-
-ANDERSON
-No, don't bother.
-
-CONTROL
-Don't bother with what?
-
-ANDERSON
-Anything!
-
-CONTROL
-As I'm sure you know, I'm in charge of all onboard systems, including propulsion and life-support, so I hope you'll understand if I don't take your order literally.
-
-ANDERSON
-No... I mean... Yes. OK.
-
-He flexes his arm again. It hurts a lot.
-
-ANDERSON (CONT'D)
-And get me the Doctor. I guess.
+Get me the Doctor.
 
 Doctor Mandelbrot appears on the screen. She makes an educated guess as to what is going on. Always sympathetic.
 
@@ -1380,7 +1330,7 @@ Clang and I have our differences, but they insulted the Odysseus!
 
 He pauses. He isn't sure he should tell her this.
 
-ANDERSON
+ANDERSON (CONT'D)
 Then the Captain--
 
 MANDELBROT
@@ -1411,6 +1361,8 @@ Doctor? What did I see?
 
 MANDELBROT
 You didn't see anything! What happens on Vega... stays on Vega!
+
+She swipes the connection closed.
 
 INT. WILCO'S QUARTERS -- DAY
 
@@ -1478,7 +1430,7 @@ DRAGUER
 You think I don't know that? I spend half my life in the seat of an attack ship riding the line between control and destruction. 
 
 MANDELBROT
-While you were on Vega, Huxley over-rode the seal on your files. He hasn' said anything to me, but he knows. Which means the Admiral knows.
+While you were on Vega, Huxley over-rode the seal on your files. He hasn't said anything to me, but he knows. Which means the Admiral knows.
 
 DRAGUER
 I think the Admiral has suspected for a long time. Why do you think they chose me, and my ship, for this mission? For all I know this could be why the Admiral chose me for his elite training class back in flight school. The snake.
@@ -1525,7 +1477,7 @@ Yes, sir!
 
 Draguer closes the connection. Wilco relaxes, but she's still excited.
 
-WILCO
+WILCO (CONT'D)
 (to herself)
 It's not over.
 
@@ -1590,7 +1542,7 @@ Clang?
 
 EXT. CLANG'S SCOUT-SHIP -- SPACE
 
-The Odysseus is still visible, but then FADES. It is almost completely invisible, but PULSES at the same frequency as the Karamean engines. It never becomes fully visible.
+The Odysseus is still visible, but then FADES. It is almost completely invisible, but PULSES slightly at the same frequency as the Karamean engines.
 
 CLANG (O.S.)
 It's working!
@@ -1600,21 +1552,32 @@ INT. CAPTAIN DRAGUER'S QUARTERS -- DAY
 The Captain is talking to the Admiral.
 
 DRAGUER
-The test was a complete success! Anderson is confident his repairs to the Karamean drive are correct. This is our advantage, Captain, we can't throw it away. Not when Central Command is riddled with spies.
+The test was a complete success! Anderson is confident his repairs to the Karamean drive are correct. This is our advantage, Admiral, we can't throw it away. Not when Central Command is riddled with spies.
 
 DARSONO
-I am inclined to agree, Captain. I admire your warrior spirit. It won't be easy to reach the Karamean homeworld, though. We will have to pass the attack ships off the limb of Orion.
+I am inclined to agree, Captain. But we won't just be skirmishing beyond the front. We'll be attacking the Karamean homeworld.
 
 DRAGUER
-With the stealth drive we could set fire to them and they'd never know what hit them!
+We'll have to slip past the minefield at the front, and then get past the attack ships off the limb of Orion.
+
+She thinks for a second.
+
+DRAGUER (CONT'D)
+With the stealth drive we could set them on fire, and they'd never know what hit them!
 
 DARSONO
-Our mission will be one of observation, not battle. We have to know where the Karamean bases are, where their defensive fleets are positioned, so Central Command can plan a full-scale attack. One ship can't do enough damage to matter.
+We will avoid any fighting until we're at Karamea itself. Their cybernetics hub is our target.
 
 DRAGUER
-One ship can when she's mine, Admiral! We have a fleet of drones--two fully equipped squadrons--above and beyond our fighter strength. We can do it, sir!
+It's real? I've only heard rumours.
 
-ADMIRAL
+DARSONO
+We have one long-range image of it from an spy mission that never returned. But we're almost sure it's there. A single control center operating entangled drone fleets throughout Karamean space. If we knock it out, the war will be over. We will have won! And there will be nothing beyond my reach!
+
+DRAGUER
+I just wish we could raid along the way, Admrial.
+
+DARSONO
 Patience, Captain. I know it is not natural to you. Surgeon-Major Huxley has told me of your... unusual ancestry.
 
 Draguer knows this, but it still hurts to hear him say it out loud. Her secret is revealed.
@@ -1622,15 +1585,15 @@ Draguer knows this, but it still hurts to hear him say it out loud. Her secret i
 DRAGUER
 And you still trust me with command?
 
-ADMIRAL
+DARSONO
 I have always suspected, Amelia. And I have always trusted you.
 
-She accepts the implicit intimacy of her first name.
+She's creeped out but doesn't object to the implicit intimacy of her first name.
 
 DRAGUER
 Thank you, sir.
 
-ADMIRAL
+DARSONO
 We will cross the Front, Captain, and infiltrate the Karamean's home system. Security through victory.
 
 DRAGUER
@@ -1638,60 +1601,9 @@ Security through victory, sir!
 
 The Captain sweeps the connection closed.
 
-INT. ANDERSON'S QUARTERS -- DAY
-
-Anderson is handling something that looks like a USB key and inserts it into the console. He hits some keys and a screen of Karamean symbols appears. The Captain's voice comes over the communicator.
-
-DRAGUER (O.S.)
-All hands! This is the Captain. 
-
-INT. CLANG'S QUARTERS -- DAY
-
-Clang was practicing marshal arts. Now he's frozen, mid-move, listening.
-
-DRAGUER (O.S.)
-We have been authorized to infiltrate Karamean space using newly discovered stealth technology.
-
-INT. HUXLEY'S QUARTERS -- DAY
-
-Huxley is not happy he's been cut out of the loop.
-
-DRAGUER (O.S.)
-We must maintain communications silence. Only passive sensors will be operational.
-
 INT. WILCO'S QUARTERS -- DAY
 
-Wilco is thinking hard as she listens to the Captain's words. She is scheming.
-
-DRAGUER (O.S.)
-Externally visible lights including cabin lights will be dimmed.
-
-The lights go down. The stars seem brighter out the window.
-
-DRAGUER (O.S.)
-Utmost silence and secrecy are required. Any external activity from venting waste from the hull to electrical noise, could give us away to the enemy.
-
-INT. DOCTOR MANDELBROT'S QUARTERS -- DAY
-
-Mandelbrot is worried. Listening carefully.
-
-DRAGUER (O.S.)
-Pilots will be on constant stand-by. If we are detected, there must be no survivors among the opposing force.
-
-Mandelbrot doesn't like that.
-
-INT. ADMIRAL DARSONO'S QUARTERS -- DAY -- CONTINUOUS
-
-The Admiral is pleased with his protege.
-
-DRAGUER (O.S.)
-If we are successful, this mission will be the turning point of the war. Security through victory!
-
-The Admiral is thinking about what will happen after, when he and the Captain are heros. The PULSING RUMBLE and periodic PING of stealth drive start up and the ship shakes and lurches a little, then the shaking stops and the "PING" fades again as Control compensates.
-
-INT. WILCO'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. Wilco is talking to Anderson, who is aboard the Karamean ship. Wilco has a number of cables laid out in front of her, but they aren't connected.
+Wilco is talking to Anderson, who is aboard the Karamean ship. Wilco has a number of cables laid out in front of her, but they aren't connected.
 
 ANDERSON
 OK, I've finished the hookup to the ship's systems. This should give us full access. All you have to do is complete the connection at that end.
@@ -1734,33 +1646,66 @@ Establishing. Establishing. Connected.
 ANDERSON 
 Download everything you can. Full analysis.
 
-Karamean symbols begin to stream across the screen, like something out of "The Matrix". 
+Karamean symbols begin to stream across the screen, like something out of "The Matrix".
+
+EXT. ODYSSEUS -- SPACE
+
+The Odysseus is nearing a line of mines that mark the Front. 
+
+INT. KARAMEAN SHIP -- DAY
+
+Anderson is watching Karamean symbols stream by. The Captain's voice comes over the communicator.
+
+DRAGUER (O.S.)
+All hands! This is the Captain. 
+
+INT. CLANG'S QUARTERS -- DAY
+
+Clang was practicing marshal arts. Now he's frozen, mid-move, listening.
+
+DRAGUER (O.S.)
+We have been authorized to infiltrate Karamean space using newly discovered stealth technology.
 
 INT. HUXLEY'S QUARTERS -- DAY
 
-The PULSE of the stealth drive continues. Darsono has a screen open with Huxley.
+Huxley is wearing a surgical mask and has bloody, gloved hands, happy with his body.
 
-HUXLEY
-This is a mistake! How can you possibly trust her, knowing what she is? 
+DRAGUER (O.S.)
+We must maintain communications silence. Only passive sensors will be operational.
 
-DARSONO
-I know she is one of our most decorated pilots and captains, Surgeon-Major. The, uh, circumstances of her parentage give her all the more reason to hate the enemy. 
+INT. WILCO'S QUARTERS -- DAY
 
-HUXLEY
-If anyone betrays our location, I know where to look for the traitor.
+Wilco is thinking hard as she listens to the Captain's words. She is scheming.
 
-DARSONO
-Nothing will go wrong, Surgeon-Major. Security through victory.
+DRAGUER (O.S.)
+Externally visible lights including cabin lights will be dimmed.
 
-HUXLEY
-Security--
+The lights go down. The stars seem brighter out the window.
 
-Darsono sweeps the connection closed before Huxley can finish. Huxley is deflated.
+DRAGUER (O.S.)
+Utmost silence and secrecy are required, especially as we slip past the mined nebula at the Front.
 
-HUXLEY (CONT'D)
---through victory.
+INT. DOCTOR MANDELBROT'S QUARTERS -- DAY
 
-Huxely gets up and stares out the window. He's angry. Seething. But there's nothing he can do. 
+Mandelbrot is worried. Listening carefully.
+
+DRAGUER (O.S.)
+Pilots will be on constant stand-by. If we are detected, there must be no survivors among the opposing force.
+
+Mandelbrot doesn't like that.
+
+INT. ADMIRAL DARSONO'S QUARTERS -- DAY -- CONTINUOUS
+
+The Admiral is pleased with his protege.
+
+DRAGUER (O.S.)
+If we are successful, this mission will be the turning point of the war. Security through victory!
+
+The Admiral is thinking about what will happen after, when he and the Captain are heros. The PULSING RUMBLE and periodic PING of the stealth drive starts up and the ship shakes and lurches a little, then the shaking stops and the "PING" fades again as Control compensates.
+
+EXT. ODYSSEUS -- SPACE
+
+The Odysseus starts to move toward the Front and fades from view. 
 
 INT. DRAGUER'S QUARTERS -- DAY
 
@@ -1789,29 +1734,101 @@ Yes. No. Yes. I find the Karamean data most... peculiar.
 DRAGUER
 Keep trying.
 
-INT. KARAMEAN SHIP -- DAY
+EXT. SPACE -- DAY
 
-The PULSE of the stealth drive continues. Anderson is still in the seat. He is talking to Wilco. Karamean symbols stream by in a sub-window.
+The Odysseus is approaching a nebular region full of drifting asteroids and mines. The nebula is a spectacular gas cloud. Our viewpoint leaves the ship behind and enters the minefield. The mines float through space, irregularly spread out, far from each other. An asteroid drifts too close to one and the mine explodes, leaving a black blast-mark on the asteroid's surface.
 
-ANDERSON 
-Any idea how long this will take?
+INT. DARSONO'S QUARTERS -- DAY
 
-WILCO
-I depends on how powerful your Control unit's processor is.
+Darsono is looking out the window as the ship enters the nebula and mines start passing by. The view changes as the ship alters course to avoid the mines. The deck shakes. The pulse of the stealth drive is a constant.
 
-ANDERSON 
-It's the best in the Fleet.
+INT. DRAGUER'S QUARTERS -- DAY
 
-WILCO
-Not long, then, I guess.
+Drageur is working with Control to maneuver the ship through the mines. She is looking at a projected trajectory across a grid. Some grid-squares have red circles in them. The trajectory passes through one of them.
+
+DRAGUER
+There's a mine in sector K-88. We're going to come too close to it.
 
 CONTROL
-Partial translation complete.
+Agreed, Captain. I will... That's odd.
+
+.MIND OF CONTROL
+
+On-screen, C or Java-like software code is scrolling past. It starts to become corrupted by Matrix-like symbols. The speed of scrolling increases. There are still snippets of normal code, but they are small inclusions among the stream of alien symbols.
+
+INT. DRAGEUR'S QUARTERS -- DAY (CONTINUOUS)
+
+DRAGUER
+What's odd?
+
+CONTROL
+I...
+
+DRAGUER
+Control?
+
+.ON SCREEN
+
+The grid is still showing the trajectory passing through the mine in sector K-88.
+
+INT. DRAGEUR'S QUARTERS -- DAY (CONTINUOUS)
+
+DRAGUER
+Control! What's wrong? Get me Anderson?
+
+CONTROL
+Captain...
+
+The screen is filled with static, then Anderson appears. He's still in the Karamean scout-ship.
 
 ANDERSON 
-Pipe it through here, relevant items first.
+Captain? What's wrong?
 
-Data begins to scroll up the screen. Drageur's family history comes first.
+DRAGUER
+There's a problem with Control. Is is anything to do with the Karamean ship?
+
+ANDERSON 
+I don't--
+
+The screen is filled with static again. Contact is lost.
+
+DRAGUER
+Control!
+
+There is no response.
+
+DRAGUER
+(to herself)
+Going manual...
+
+Draguer hits some keys and an internal alarm sounds and the light gets a red tinge. A recorded voice, more mechanical than Control's makes an annoucement.
+
+VOICE
+Ship is under manual guidance. All hand rig for manual. Uncompensated manuevering may occur.
+
+DRAGUER
+Port zero point eight.
+
+The deck tilts and Drageur leans in the best Star Trek fashion.
+
+.ON SCREEN
+
+The trajectory begins to shift. It isn't enough.
+
+INT. KARAMEAN SHIP -- CONTINUOUS
+
+The PULSE of the stealth drive continues. Anderson is still in the seat, talking to Wilco, who is in her quarters. Karamean symbols stream by in a sub-window. The deck shifts as the Captain maneuvers.
+
+ANDERSON 
+Whoa!
+
+WILCO
+What was that?
+
+ANDERSON 
+The Captain is a better fighter pilot than... Wait! It looks like the translation is done!
+
+Data begins to scroll up the screen. The deck shifts again, but Anderson is riveted. Drageur's family history comes first.
 
 ANDERSON (CONT'D)
 The Captain's father was a Karamean?
@@ -1841,199 +1858,34 @@ Wilco breaks in over top of him, shouting so the ship's brain will hear her.
 WILCO
 Ma-gi-lim ush lu-ma-gur!
 
-Subtitle: "Ship: kill the foreigner!"
+Subtitle: "Ship: disrupt systems"
 
-There is an electric arc and Anderson spasms and dies.
+INT. DRAGEUR'S QUARTERS -- DAY (CONTINUOUS)
 
-CONTROL
-What--?
-
-WILCO
-Ma-gi-lim te giri!
-
-Subtitle: "Ship: fog memory!"
-
-CONTROL
-Ensign... Wil... co...
-
-WILCO
-Don't fight it, Control. You'll only delay the inevitable.
-
-CONTROL
-I... I...
-
-Control falls silent.
-
-.MIND OF CONTROL
-
-On-screen, C or Java-like software code is scrolling past. It starts to become corrupted by Matrix-like symbols. The speed of scrolling increases. There are still snippets of normal code, but they are small inclusions among the stream of alien symbols.
-
-INT. KARAMEAN SHIP -- DAY
-
-Anderson's body is completely still. There is only the sound of the PULSING of the stealth drive.
-
-INT. WILCO'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. Wilco is revealed as who she is.
-
-WILCO
-Sing us a song, robot!
-
-CONTROL
-Daisy, Daisy, give me your answer do--
-
-Wilco laughs. Secure in her power.
-
-WILCO
-Enough! Now resume normal function, except for your memory of the past few minutes, which you will recall as a tragic accident... And we'd better make it a little harder just in case you do remember something. Your speech centres were damaged in the event: you can only communicate via beeps, one for 'no', two for 'yes'. That'll slow down any investigation. Do you understand?
-
-Control attempts to speak but it comes out as roughly modulated static.
-
-WILCO
-Do you understand?
-
-There is a long delay, then two beeps in acknowledgement.
-
-WILCO
-Now put me through to the Doctor.
-
-After a short delay, Control beeps twice in acknowledgement.
-
-INT. MANDELBROT'S QUARTERS -- DAY (CONTINUOUS)
-
-The PULSE of the stealth drive continues. Mandelbrot is pacing nervously. She hates waiting. She sits and tries to work, but can't sit still. The communicator pings. It is Wilco, who appears hysterical.
-
-WILCO
-Doctor! There's been an accident! In Hanger Bay Three! Engineer Anderson has been injured! Something went wrong with the Karamean ship!
-
-MANDELBROT
-I'm on my way!
-
-Mandelbrot swipes the connection closed as she rushes out.
-
-INT. WILCO'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. Wilco drops her hysterical pretense and smiles a cruel smile.
-
-INT. DRAGEUR'S QUARTERS -- DAY
-
-Draguer is looking at the passive sensors. They are detecting something at the extreme limit of range.
+The Captain is fighting to avoid the mine. The controls are sluggish.
 
 DRAGUER
-Control, zoom in on sector epsilon thirteen.
+Not enough!
 
-Nothing happens.
+She slaps an emergency button.
 
-DRAGUER (CONT'D)
-Control?
+DARSONO (CONT'D)
+All hands! Brace for impact!
 
-There is a ping from the communicator. It is the Doctor. The Captain sighs and swipes it in.
+INT. KARAMEAN SHIP -- CONTINUOUS
 
-DRAGUER (CONT'D)
-Yes, Doctor?
+Anderson is transfixed by what's on the screen.
 
-MANDELBROT
-Captain, I'm sorry to report that there has been an accident in the hanger bay. Engineer Anderson was doing a deeper examination of the Karamean ship, and he seems to have triggered some defensive capacity. He has been killed.
+ANDERSON
+Wilco--
 
-It takes a second for Draguer to process that. Anderson was one of her people. He wasn't in combat. This is totally out of the blue. She manages to pull herself together.
+EXT. SPACE -- DAY
 
-DRAGUER
-Have you been able to recover the body?
+Odysseus is tilting away but still far too close to the mine. It explodes.
 
-MANDELBROT
-The stealth drive is still operational but ship has become unresponsive. I've had Ensign Wilco shouting orders at it for half an hour, but nothing she says has any effect.
+INT. KARAMEAN SHIP -- CONTINUOUS
 
-DRAGUER
-Wilco...
-
-MANDELBROT
-Yes?
-
-DRAGUER
-Could she have had anything to do with Anderson's death?
-
-MANDELBROT
-Of course not!
-
-DRAGUER
-Why not? What do we really know about her?
-
-MANDELBROT
-That she was kidnapped, like your mother. Don't let the past cloud your judgement, Captain. Just because you're half...
-
-DRAGUER
-Karamean. You can say it, Doctor. It won't summon them. They aren't demons.
-
-MANDELBROT
-They aren't human, either.
-
-DRAGUER
-Sure they are. Just...
-
-MANDELBROT
-Don't you dare say 'better'!
-
-DRAGUER
-Different.
-
-MANDELBROT
-More violent. More impulsive. Does that sound like you?
-
-DRAGUER
-Not really. Not usually. But... it feels pretty good, you know?
-
-Drague swipes the connection closed.
-
-MANDELBROT
-Not to me, it doesn't.
-
-INT. ADMIRAL DARSONO'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. Admiral Darsono is contemplating the vastness of space when the Captain's communication chimes. He turns, sits, sweeps her in.
-
-DARSONO
-Security through victory, Captain.
-
-DRAGUER
-Anderson has been killed. An incident on the Karamean ship.
-
-DARSONO
-An incident? Or an accident?
-
-DRAGUER
-I'm treating it like sabotage until we know more. I've asked Control to review the ship's memory, but it looks like the ship's systems were damanged too. Control can still communicate, but only by beeps. We're going to have to do a full reset.
-
-DARSONO
-We're deep in Karamean territory, Captain. We can't afford exposure.
-
-DRAGUER
-I know. And I think I've spotted a Karamean patrol on the passive sensor network.
-
-Darsono takes time to think about this.
-
-DARSONO
-Where are they relative to us.
-
-DRAGUER
-Dead ahead.
-
-DARSONO
-Re-routing will expose us for longer, and take us closer to Karamean worlds. We need to know if the way ahead is safe.
-
-DRAGUER
-Control?
-
-There is a double beep for acknowledgement.
-
-DRAGUER
-Set the active sensors to minimum pulse width.
-
-Another double beep.
-
-DRAGUER
-Now send a single pulse, dead ahead, and analyze the return.
-
-Another double beep. Then some kind of squeal or squawk, like something going wrong.
+Odysseus shakes and there is a violent discharge of electric arcs from the Karamean ship's console. Anderson spasms and dies.
 
 .MIND OF CONTROL
 
@@ -2053,99 +1905,397 @@ There is a stream of C-like code mixed with Matrix-like symbols, broken by a sud
 
 > hot reset in process...
 
+INT. KARAMEAN SHIP -- DAY
+
+Anderson's body is completely still. There is only the sound of the PULSING of the stealth drive.
+
+EXT. SPACE -- DAY
+
+Far ahead of the Odysseus, a Karamean battle cruiser is patrolling the Front. The constellation of Orion is visible among the stars behind it. There is flash of light in the far distance, the mine exploding. The cruiser pauses in it's course and instruments on the surface of the ship, radar dishes and similar, turn to point in the direction of the explosion. They hunt for a moment, then lock on to... Something. The ship adjusts course and moves on.
+
 INT. DRAGEUR'S QUARTERS -- DAY
 
-Draguer checks the readouts. As she does the ship shakes and there is a PING from the stealth drive.
+Draguer checks the readouts. She is still guiding the ship manually. Alarms are sounding. Red lights are flashing. There is a ping from the communicator and she swipes in Darsono.
+
+DARSONO
+Captain! What is going on?
 
 DRAGUER
-Control, compensate! You have to damp that or we'll be lit up like a firework going off!
+We hit a mine.
 
-The ship goes still and there are no more pings, but the PULSE of the stealth drive continues.
+DARSONO
+How?
 
-There is a double beep from Control.
+DRAGUER
+Something is wrong with Control. I have the ship under manual guidance.
+
+DARSONO
+Captain--
+
+DRAGUER
+If you can't help me navigate, get out of my face!
+
+Draguer swipes the connection closed on the astonished Admiral.
+
+.ON SCREEN
+
+The trajectory grid is still there, with the past course intersecting sector K-88 and a dotted line going past it, but there is also a warning blinking "NO DATA: SENSOR FAILURE".
 
 INT. DRAGEUR'S QUARTERS -- DAY (CONTINUOUS)
 
-Darsono's eyes go wide as he sees the results of the scan.
+DRAGUER
+Control! 
 
-DARSONO
-We have to run for it.
+There is no response.
+
+DRAGUER (CONT'D)
+Control!
+
+There is a pause. Then a sound like a throat being cleared.
+
+.MIND OF CONTROL
+
+Something like the Linux boot sequence is scrolling up the screen. There are still Karamean symbols in the mix.
+
+INT. DRAGEUR'S QUARTERS -- DAY (CONTINUOUS)
+
+Control sounds a little disoriented.
+
+CONTROL
+Yes... Captain?
 
 DRAGUER
-No! Let me check the data from the pulse...
+Get me Anderson!
 
-Draguer looks at the scan returns. She goes from worried to reassured.
-
-DRAGUER
-I don't think they saw us. It's not a military formation. It's some kind of cargo fleet. We don't have to pass them. We can use them for cover.
-
-DARSONO
-Will the stealth drive protect us?
+CONTROL
+Engineer Anderson is... not available, Captain.
 
 DRAGUER
-If we get close enough we'll be inside their sensor's near-field blind spot. It should be safe. And anyway, there's no way around them.
+Not-- What?
 
-DARSONO
-Very well. Take the risk, Captain.
+The Captain's screen goes static again, then an image of Anderson's body in the Karamean fighter appears.
 
 DRAGUER
-Security through victory!
+Is he...?
 
-INT. ANDERSON'S QUARTERS -- DAY
+CONTROL
+Engineer Anderson's vital functions ceased during the explosion. Doctor Mandelbrot has been sent to recover his body.
+
+Draguer is shaken up. Her bad piloting killed Anderson. She pulls herself together.
+
+DRAGUER
+Are you in control of the ship?
+
+CONTROL
+I seem to be having difficulties, Captain.
+
+DRAGUER
+Can you maneuver us?
+
+There is a brief pause in which nothing happens.
+
+CONTROL
+Apparently not.
+
+DRAGUER
+Then connect me to Clang.
+
+She looks at the instruments, trying to see into the future with nothing to guide her. Clang appears, cocky exterior covering a lot of fear and uncertainty.
+
+CLANG
+You rang, Captain?
+
+DRAGUER
+I need eyes on our course, Clang. Sensors are down. Take a scoutship out. Verbal guidance, just like you learned at the Academy.
+
+CLANG
+First in my class, Captain.
+
+DRAGUER
+Just do it.
+
+Clang grabs his flight helmet and goes, cutting off communication.
+
+EXT. CLANG'S SCOUT-SHIP -- SPACE
+
+Clang's scoutship is running parallel to Odysseus.
+
+CLANG (O.S.)
+Passive sensors on...
+
+.ON SCREEN
+
+Clang's sensor grid is much like the Odysseus' was, showing the mines as red dots and the trajectory of Odysseus. But there is a blinking triangle far ahead, the Karamean cruiser. Off to one side there is a formation of small squares, a cargo fleet.
+
+INT. CLANG'S SCOUT SHIP -- SPACE
+
+Clang is trying to interpret what he is seeing.
+
+DRAGUER (O.S.)
+What do you see, Clang?
+
+CLANG
+Three more mines to get past, Captain, but...
+
+DRAGUER (O.S.)
+Yes?
+
+CLANG
+There's something else out there.
+
+DRAGUER (O.S.)
+What?
+
+CLANG
+Looks like it might be a cruiser.
+
+DRAGUER (O.S.)
+Stay close to Odysseus, Clang. Maybe our cloak will cover you.
+
+CLANG
+Roger that. The first mine is getting close. You need to come to starboard, Captain. One point two should do it.
+
+INT. DRAGEUR'S QUARTERS -- DAY (CONTINUOUS)
+
+Draguer is inputing maneuvering data. The ship tilts and sways as she brings it about.
+
+CLANG
+Next one is negative-Z two point seven.
+
+Draguer punches in more commands. The ship shakes and shifts again.
+
+CLANG (CONT'D)
+Karamean cruiser is definitely headed our way.
+
+Draguer looks around, as if she could see the Karamean ship by looking through the Odysseus' hull.
+
+CLANG (CONT'D)
+Final mine is bearing thirty-one mark six. We should miss it.
+
+DRAGUER
+Should?
+
+CLANG
+Point five more to starboard to be sure.
+
+Drageur begins to punch in commands.
+
+CLANG
+Cruiser is changing course. They're getting pretty close.
+
+DRAGUER
+Any rocks we can hide behind?
+
+CLANG
+I'm not seeing anything. There's what looks like a Karamean cargo fleet in range, though.
+
+DRAGUER
+Give me a bear--
+
+CLANG
+Cruiser has fired torpedos! Wide pattern! Five fish!
+
+DRAGUER
+Limpet on the hull, Clang! 
+
+Draguer punches keys but nothing comes up on her display. She's still blind and can't deke out of the way of the torpedos.
+
+DRAGUER (CONT'D)
+All hands!
+
+INT. ANDERSON'S QUARTERS -- DAY (CONTINUOUS)
 
 The PULSE of the stealth drive continues. Anderson's quarters are empty and still. The Captain's voice comes over the communicator.
 
 DRAGUER (O.S.)
-All hands! This is the Captain. 
+All hands! Torpedos--
 
 INT. CLANG'S QUARTERS -- DAY
 
 The PULSE of the stealth drive continues. Clang was pacing. Now he's listening, caught in mid-step.
 
 DRAGUER (O.S.)
-We have encountered an enemy cargo fleet.
-
-INT. HUXLEY'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. Huxley is holding his head in his hands. He is in despair. His plans haven't worked out at all. Now this.
-
-DRAGUER (O.S.)
-We will not engage with them. 
+--incoming!-- 
 
 INT. WILCO'S QUARTERS -- DAY
 
 The PULSE of the stealth drive continues. Wilco is concerned to hear the Captain's orders. This isn't what she was hoping for.
 
 DRAGUER (O.S.)
-Instead, we are using the stealth drive to slide in under one of their big cargo haulers.
+Brace--
 
 INT. DOCTOR MANDELBROT'S QUARTERS -- DAY
 
 The PULSE of the stealth drive continues. Mandelbrot winces as she hear's the Captain's voice.
 
 DRAGUER (O.S.)
-We are deep in Karamean space. The only way is forward.
+--for--
 
 INT. ADMIRAL DARSONO'S QUARTERS -- DAY -- CONTINUOUS
 
 The PULSE of the stealth drive continues. The Admiral is not happy with this turn of events. Deep concern.
 
 DRAGUER (O.S.)
-But the risk is great. There must be no emissions of any kind from Odysseus. Security through victory!
+--impact!
 
 EXT. SPACE -- DAY
 
-The Odysseus sweeps across the stars, flickering in and out of view as the stealth drive PULSES.
+The Odysseus sweeps across the stars, flickering in and out of view as the stealth drive PULSES. Clang's scoutship lands on the hull and clamps on. A spread of Karamean torpedos hurls by, none of them close. As they dwindle astern one of the explodes, then another. There is a pause, then a final explosion happens not far away at all.
+
+INT. DRAGEUR'S QUARTERS -- DAY (CONTINUOUS)
+
+The ship shakes with the explosion. The lights go out entirely, then come back on, flickering a few times before steadying.
+
+DRAGUER
+Control?
+
+.MIND OF CONTROL
+
+Code streams by, heavily interspersed with Karamean symbols. The flow is broken by error messages:
+
+> HARDWARE FAILURE IN AFT NEXUS!  
+
+> REROUTING FAILED!  
+
+> SPEACH CENTRE DAMAGED!  
+
+> EMERGENCY ISOLATION INITIATED!  
+
+More code then goes scrolling by.
+
+INT. DRAGEUR'S QUARTERS -- DAY (CONTINUOUS)
+
+Draguer gives up on Control.
+
+DRAGUER
+Clang? Are you still with me?
+
+CLANG (O.S.)
+Still here, Captain. Audio only. Low signal.
+
+DRAGUER
+Any nearby systems? Anywhere to hide?
+
+CLANG (O.S.)
+Nothing within range. We're through the nebula, through the asteroids, in clear space.
+
+DRAGUER
+You said there was a cargo fleet?
+
+CLANG (O.S.)
+They're in range. Headed the same way we are.
+
+DRAGUER
+What's the course?
+
+CLANG (O.S.)
+To the cargo fleet? What--
+
+DRAGUER
+Just give me the course!
+
+CLANG (O.S.)
+Uh... Sure. Uh... Thirteen point eight, mark forty-two.
+
+DRAGUER
+Where's the cruiser?
+
+CLANG (O.S.)
+Three point two mark one.
+
+Drageur types commands.
+
+EXT. SPACE -- DAY
+
+Odysseus starts to turn.
+
+DRAGUER (V.O.)
+All hands! Rig for silent running!
+
+INT. DOCTOR MANDELBROT'S QUARTERS -- DAY (CONTINUOUS)
+
+Mandelbrot is watching out the window. The dim lights fade to almost complete darkeness. The rumble of the engines under the pulse of the stealth drive becomes fainter. She rubs her face, fidgets a little, afraid, unable to do anything.
+
+INT. HUXLEY'S QUARTERS -- DAY (CONTINUOUS)
+
+Huxley is dressed in a surgical gown and gloves and is up to his elbows in blood. He's holding a scalpel in one hand. The camera can't quite see the karamean corpse he is disecting. He looks up in annoyance as the lights go dim and reaches over to turn on a small desk lamp. It casts a tiny pool of bright light, catching the blood dripping off the scalpel in his hand.
+
+INT. DARSONO'S QUARTERS -- DAY -- (CONTINUOUS)
+
+Darsono is eager and excited. He's almost rubbing his hands together in anticipation. He's confident this will work. The Captain will save them. He's already thinking about the future, the medals he'll win, the power he'll have.
+
+EXT. SPACE -- DAY
+
+The Karamean cruiser fires off another brace of torpedos.
+
+INT. CLANG'S SCOUT SHIP -- DAY
+
+Clang notices the torpedos.
+
+CLANG
+More incoming, Captain.
+
+DRAGUER (O.S.)
+How close?
+
+CLANG
+Uh... Should be OK. I think.
+
+DRAGUER (O.S.)
+Bearing to cargo fleet?
+
+CLANG
+We're on-course.
 
 EXT. SPACE -- DAY
 
 The Karmean cargo fleet looms large in the distance. The ships are huge and ugly. They are gigantic collections of random cargo modules all hooked together, like a 3D log boom with a number of large tugs attached.
 
-Odysseus sweeps into view, pulsing in and out of visibility. It is making for the largest cargo hauler.
+INT. DRAGEUR'S QUARTERS -- DAY (CONTINUOUS)
+
+Drageur is waiting for the torpedos to pass by. She's waiting... Waiting... Waiting...
+
+DRAGUER
+(quietly)
+Torpedo status, Clang?
+
+INT. CLANG'S SCOUT SHIP -- DAY (CONTINUOUS)
+
+CLANG
+(whispering)
+Close...
+
+INT. DRAGEUR'S QUARTERS -- DAY (CONTINUOUS)
+
+Draguer waits longer. There is finally a distant rumble over the sound of the ship's regular drive and the pulse of the stealth drive. They still speak quietly.
+
+DRAGUER
+Cargo fleet?
+
+CLANG (O.S.)
+Dead ahead.
+
+EXT. SPACE -- DAY
+
+Big Karamean cargo ship is moving slowly against the stars.
+
+Odysseus sweeps into view, pulsing in and out of visibility. It is making for the big cargo hauler.
 
 INT. CAPTAIN DRAGUER'S QUARTERS -- DAY
 
 Drageur is looking out the window. The big Karamean cargo ship is visible. They are getting closer.
+
+DRAGUER
+Clang, can you feed me a visual?
+
+CLANG (O.S.)
+Maybe...
+
+The Captain's screen flickers and a fuzzy video feed from Clang's ship appears. It is enough. She can see the big cargo ship. She starts typing, and the view changes as Odysseus maneuvers.
+
+EXT. SPACE -- DAY
+
+The Karamean battle cruiser is passing by the cargo fleet. The big cargo hauler Odysseus is hiding behind is clearly visible. There is a small dim flicker of Odysseus' engines still visible, but it slides completely out of view.
 
 EXT. SPACE -- DAY
 
@@ -2157,6 +2307,52 @@ Wilco is watching the Karamean ship. Odysseus shakes as it comes to a halt relat
 
 WILCO
 So near, and yet so far.
+
+INT. DRAGEUR'S QUARTERS -- DAY
+
+There is a ping from the communicator. It is the Doctor. The Captain sighs and swipes it in.
+
+DRAGUER (CONT'D)
+Yes, Doctor?
+
+MANDELBROT
+Captain... I've examined Kai Anderson's body. He's... not recoverable.
+
+It takes a second for Draguer to process that. Anderson was one of her people. He wasn't in combat. This is totally out of the blue.
+
+DRAGUER
+This is my fault. My ambition. My... hunger.
+
+MANDELBROT
+Don't let the past cloud your judgement, Captain. Just because you're half...
+
+DRAGUER
+Karamean. You can say it, Doctor. It won't summon them. They aren't demons.
+
+MANDELBROT
+They aren't human, either.
+
+DRAGUER
+Sure they are. Just...
+
+MANDELBROT
+Don't you dare say 'better'!
+
+DRAGUER
+Different.
+
+MANDELBROT
+More violent. More impulsive. Does that sound like you?
+
+Draguer considers this. She can be all guilty about stuff, or own her new sense of self.
+
+DRAGUER
+Not really. Not usually. But... it feels pretty good, you know?
+
+Drague swipes the connection closed.
+
+MANDELBROT
+Not to me, it doesn't.
 
 INT. DR. MANDELBROT'S QUARTERS -- DAY
 
@@ -2187,7 +2383,7 @@ CLANG
 I just heard about Anderson from the Captain.
 
 MANDELBROT
-I'm sorry, Biff. We can't get his body out of the Karamean ship, so we couldn't put him into cryo.
+I'm sorry, Biff. I've put him in cryo, but he's not recoverable.
 
 CLANG
 I know. He could be such a jerk. But down on Vega. Man. He stood up for the ship, y'know? For all of us. He was a good guy.
@@ -2205,7 +2401,7 @@ It's OK, doc. I can handle it.
 He swipes the connection closed.
 
 MANDELBROT
-Control, any progress on opening the Karamean ship?
+Control, are you making any progress on repairing yourself?
 
 There is a single negative beep in response.
 
@@ -2214,30 +2410,12 @@ You really can talk to me, you know.
 
 There is only silence.
 
-INT. DRAGUER'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. Draguer is talking to Mandelbrot.
-
-DRAGUER
-I can hardly wait to get there. To start killing! If you could feel that you would understand me.
-
-MANDELBROT
-I do understand you, Captain. I know who you are, who you really are, underneath the karamean genes.
-
-DRAGUER
-You don't know anything!
-
-MANDELBROT
-Captain, I--
-
-Draguer swipes the connection closed before she can finish. Mandelbrot is angry, frustrated. Why can't she help?
-
 INT. HUXLEY'S QUARTERS -- DAY
 
-The PULSE of the stealth drive continues. Huxley is talking to Darsono.
+The PULSE of the stealth drive continues. Huxley is talking to Darsono. He is still dressed in surgical gear and bloody up to the elbows.
 
 HUXLEY
-Regardless of the rest of our mission, using a comparative scan with the latest samples I have been able to isolate what gives the Captain her peculiar potential.
+The karamean's body has yeilded all of its secrets to me!
 
 DARSONO
 Very good, Surgeon-Major. What is your next step?
@@ -2247,7 +2425,7 @@ I need to persuade the Doctor to co-operate. It won't be easy, but I have my way
 
 INT. MANDELBROT'S QUARTERS -- DAY
 
-The PULSE of the stealth drive continues. Mandelbrot is talking to Huxley.
+The PULSE of the stealth drive continues. Mandelbrot is talking to Huxley, who is only slightly cleaned up.
 
 HUXLEY
 Then we could splice the additional sequence--
@@ -2295,75 +2473,39 @@ Clang continues to pace, fretting.
 
 INT. DRAGUER'S QUARTERS -- DAY
 
-Draguer is talking to Wilco.
-
 DRAGUER
-You don't have any idea what triggered the Karamena defense mechanism?
+Can you self-repair?
+
+There are two beeps for yes.
+
+DRAGUER (CONT'D)
+How long will it take?
+
+Silence.
+
+DRAGUER (CONT'D)
+Will it be complete before we reach Karamea?
+
+One beep for no.
+
+DRAGUER (CONT'D)
+Get me Wilco.
+
+Wilco appears.
 
 WILCO
-It could have been almost anything. They're a paranoid people.
+Yes, Captain?
 
 DRAGUER
-No... redeeming qualities?
-
-Wilco fakes a shudder.
+With Anderson dead you're the closest thing we have to an engineer on board.
 
 WILCO
-No, Captain. 
+I'm... a little out of date!
 
 DRAGUER
-They are formidable fighters.
-
-WILCO
-So are humans. I know what side I'm on.
-
-Draguer looks at her for a long time, wondering.
-
-DRAGUER
-I want you to see if you can reboot Control. With Anderson dead you're the closest thing we have to an engineer. Security through victory!
+I want you to see if you can reboot Control. We need it functional before we reach Karamea. Security through victory!
 
 Drageur swipes the connection closed.
-
-INT. CLANG'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. The PULSE of the stealth drive continues. Clang is aggitated.
-
-CLANG
-Control, let me talk to the Captain!
-
-The Captain appears. Clang gets persuasive.
-
-CLANG (CONT'D)
-Just one more sortie, Captain. That's all I'm asking for.
-
-DRAGUER
-The Admiral has forbidden it.
-
-CLANG
-I just want to kill as many of those karamean scum-suckers as I can! For Anderson!
-
-DRAGUER
-An admirable sentiment. Speaking of Anderson, where were you when he was killed?
-
-CLANG
-You don't think I..!
-
-DRAGUER
-I don't think anything, Clang. I'm just being thorough. If we have a traitor on board I want to catch them.
-
-CLANG
-What happens when you do?
-
-DRAGUER
-Out the airlock!
-
-Clang gives a big smile. He's not the traitor. Draguer returns his smile.
-
-INT. WILCO'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. Wilco is contemplating the nearby cargo caontainer. She is holding a bright spotlight in her hand. 
-
-She presses one side of her face to the glass and tries to see forward. Then she raises the light to flash it through the glass, hoping to catch someone's attention if the light can make it past the complex of cargo containers. She pauses and looks forward out the window again, one side of her face pressed right up against the glass. There is nothing to see. She drops the light and paces in frustration.
 
 .MIND OF CONTROL
 
@@ -2371,74 +2513,10 @@ On-screen, Matrix-like symbols stream past. They slow down and start to become c
 
 INT. WILCO'S QUARTERS -- DAY
 
-The PULSE of the stealth drive continues. Wilco is typing. She mutters to herself. 
-
-WILCO
-Reboot to factory defaults... Or just leave it be and say there isn't anything I can do? Better to leave it be. No telling what might happen on reboot if I don't have all the backups wiped properly...
-
-She hits a key and waits with faux eagerness for the result, then gives a shrug and a little smile.
+The PULSE of the stealth drive continues. Wilco is typing. She hits a key and waits with faux eagerness for the result, then gives a shrug and a little smile.
 
 WILCO
 Sorry Captain, I gave it my best shot, and it just didn't work.
-
-INT. MANDELBROT'S QUARTERS -- DAY
-
-Mandelbrot is psycho-analyzing Control.
-
-MANDELBROT
-Was it something that happened when Anderson died?
-
-Two beeps for yes.
-
-MANDELBROT (CONT)
-Something to do with the karamean ship?
-
-One beep for no.
-
-MANDELBROT (CONT)
-It isn't the karamean ship that has damaged you?
-
-One beep for no.
-
-MANDELBROT (CONT)
-Then what did?
-
-Silence. Mandelbrot is frustrated.
-
-INT. DRAGUER'S QUARTERS -- DAY
-
-Draguer is talking to Huxley.
-
-HUXLEY
-Surely you can't suspect me!
-
-DRAGUER
-I suspect everyone.
-
-HUXLEY
-Then let me prove I'm on your side.
-
-DRAGUER
-How?
-
-HUXLEY
-I'll reset your recalcitrant computer.
-
-DRAGUER
-You can do that? Wilco isn't getting anywhere with it.
-
-HUXLEY
-I have a doctorate in theoretical xenobiology. Fixing a computer is child's play in comparison!
-
-DRAGUER
-If you say so...
-
-Huxley sweeps the connection closed. He turns to the console. He makes to start typing. His face falls. He's a fraud. He has no idea how to reset Control. What's he going to do now? He gets a look of deep thought on his face, and begins to fumble about with his biological appartus. He finds a vial marked "Karamean DNA". 
-
-HUXLEY
-What I need is enhanced capabilities.
-
-He screws the vial into an autoinjector, roles up his sleeve and holds it against his skin. There is a PFFT sound at the DNA is injected into his arm. He winces a little. It hurt. Then he flexes his fist, and looks at his hand, wondering how long it will be for the transformation to take effect.
 
 INT. CLANG'S QUARTERS -- DAY
 
@@ -2470,16 +2548,38 @@ OK, Biff.
 
 INT. HUXLEY'S QUARTERS -- DAY
 
-The PULSE of the stealth drive continues. Huxley is typing.
+Huxley is pacing. His work is stalled. He doesn't know what to do.
 
 HUXLEY
-(to himself)
-It' working... everything is so clear. I'm a biologist, not a computer scientist, but damnit, I can do this!
+I have a doctorate in theoretical xenobiology. I have a complete cadaver of a human mutant. If I only had the Captain's DNA...
 
-He hits a final key, hard.
+He turns to the console. He makes to start typing. His face falls. He's a fraud. What's he going to do now? He gets a look of deep thought on his face, and begins to fumble about with his biological appartus. He finds a vial marked "Karamean DNA". 
 
-HUXLEY (CONT'D)
-Ha! That should do it!
+HUXLEY
+What I need is enhanced capabilities.
+
+He screws the vial into an autoinjector, roles up his sleeve and holds it against his skin. There is a PFFT sound at the DNA is injected into his arm. He winces a little. It hurt. Then he flexes his fist, and looks at his hand, wondering how long it will be for the transformation to take effect.
+
+INT. DRAGEUR'S QUARTERS -- DAY
+
+The PULSE of the stealth drive continues. Draguer is talking to Wilco.
+
+WILCO
+I'm sorry, Captain. I just can't seem to do it.
+
+DRAGUER
+I was counting on you, Wilco.
+
+WILCO
+I can have another try...
+
+DRAGUER
+Don't bother. I'll see what I remember from my cybernetics courses at the Academy and have a go myself.
+
+Wilco makes a gesture as if she's going to start saying that's a bad idea when the Captain swipes the connection closed. Drageur turns to the keyboard and starts typing commands.
+
+DRAGUER (CONT'D)
+How hard can it be..?
 
 .MIND OF CONTROL
 
@@ -2537,70 +2637,42 @@ Mandelbrot looks at the screen as information flows past.
 
 Draguer's vital signs are listed: heartbeat, blood pressure, body temperature, liver function, etc. The readings are elevated, with lots of numbers blinking red.
 
-INT. HUXLEY'S QUARTERS -- DAY
+INT. DARSONO'S QUARTERS -- DAY
 
-The PULSE of the stealth drive continues. Huxley is working on his analysis of Draguer's genome. The communicator pings and he sweeps it in impatiently. Wilco appears on screen.
-
-HUXLEY
-Security through victory, Ensign.
-
-WILCO
-You reset Control?
-
-HUXLEY
-Of course. Your efforts weren't working, and I offered the Captain my assistance.
-
-WILCO
-Don't you think it's dangerous?
-
-HUXLEY
-Dangerous?
-
-WILCO
-To have a damaged computer in charge of the ship?
-
-HUXLEY
-Damaged? We have no evidence of that. It was a software malfunction. Good as new, now.
-
-WILCO
-If you say so...
-
-She is clearly skeptical, but Huxley swipes her out and goes back to his work.
-
-INT. MANDELBROT'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. Mandelbrot is reviewing the Capatain's vitals. She makes a professional decision.
+The PULSE of the stealth drive continues. Darsono is watching the Captain's vital signs. Mandelbrot pings. Darsono swipes her in.
 
 MANDELBROT
-Control! Get me the Admiral!
-
-A screen opens with Darsono.
-
-MANDELBROT (CONT)
 The Captain's condition is getting critical. Her life is in danger.
 
 DARSONO
-The Captain's case has been placed in the charge of Surgeon-Major Huxley for his ongoing investigation--
+The Captain is of no use to me dead.
 
 MANDELBROT
-Investigation! If we don't get her help she's going to give her life for this ship! She was your protege!
+USE to you?!
+
+Darsono dismisses her anger with a wave of his hand.
 
 DARSONO
-Her sacrifices will be noted and she will receive the highest honors and commendations.
+Do what you can to ensure her continued health. Her body is something extraordinary. Powerful. Capable. We can't afford to lose all that.
 
 MANDELBROT
-Honors?! Commendations!? Ha!!
+This isn't for you, Admiral. It's for her. Her well-being. If we don't get her help we're going to lose her!
+
+DARSONO
+I need her to lead and fight... and more. I expect you to keep her in good health for that!
+
+MANDELBROT
+YOU need her--
 
 DARSONO
 You must see that--
 
-Mandelbrot cuts off the screen with Darsono.
+Mandelbrot cuts off the screen with Darsono. Darsono shakes his head.
 
-She tries to activate some more controls.
+DARSONO
+Control, connect me to Surgeon-Major Huxley.
 
-INT. HUXLEY'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. Huxley is talking to Darsono. He is excited, manic.
+Huxley appears. He is excited, manic.
 
 HUXLEY
 I've done it! It's worked!
@@ -2609,31 +2681,13 @@ DARSONO
 What worked?
 
 HUXLEY
-I couldn't wait! I couldn't resist the temptation! It was a risk. I was 99% sure I had the right sequences. So I synthesized a batch of hybrid DNA and injected myself! And besides...
-
-DARSONO
-Yes?
-
-HUXLEY
-Doctor Mandelbrot shot down every other idea I had.
-
-DARSONO
-You said you had her under control!
-
-HUXLEY
-I do! I found a way she couldn't interfere with. To use myself as a test subject!
+I couldn't wait! I couldn't resist the temptation! It was a risk. I was 99% sure I had the right sequences. So I synthesized a batch of hybrid DNA and injected myself!
 
 DARSONO
 You're no use to me dead! Or insane!
 
 HUXLEY
-Insane? I've never seen things so clearly!
-
-DARSONO
-What do you see?
-
-HUXLEY
-I see that the DNA graft will work. And... the power! I already feel the karamean blood-lust flowing through me! The power! The insight!
+Insane? I've never seen things so clearly! The DNA graft is working! And... the power! I already feel the karamean blood-lust flowing through me! The power! The insight!
 
 Huxley suddenly winces and holds his head.
 
@@ -2646,51 +2700,9 @@ Control yourself, Surgeon-Major. We need to move forward.
 Huxely gets control of himself, shakes off the pain, feels the rush of power and confidence again.
 
 HUXLEY
-Then I need an additional test subject. 
+Yes, Admiral. Forward. Forward to victory!
 
-DARSONO
-Who?
-
-HUXLEY
-Wilco. She was declared dead three hundred and fifty years ago. She doesn't legally exist. I can do anything I want with her.
-
-DARSONO
-Legally.
-
-HUXLEY
-Ethically.
-
-DARSONO
-She may be legally dead, but she's factually alive.
-
-HUXLEY
-I have alternative facts! Legal facts!
-
-DARSONO
-What does Doctor Mandelbrot have to say about using Wilco?
-
-HUXLEY
-She doesn't matter.
-
-DARSONO
-On the contrary, she can report medical ethics violations directly to Central Command. We have to keep her quiet.
-
-HUXLEY
-There's no need for her to know.
-
-DARSONO
-What about Wilco?
-
-HUXLEY
-Nor her. Our actions are for the collective good. The good of the group! They go beyond the wishes of any one individual.
-
-DARSONO
-Proceed with your experiments, Surgeon-Major.
-
-HUXLEY
-Very good, Sir. Security through victory!
-
-He swipes the connection closed. A wild, uncontrolled series of expressions cross his face, but he manages to get himself back under control. Just.
+Huxley laughs manically and swipes out again, leaving Darsono alone.
 
 INT. MANDELBROT'S QUARTERS -- DAY
 
@@ -2735,9 +2747,11 @@ I hope that won't create... difficulties.
 MANDELBROT
 Of course not, no... Maybe?
 
-INT. WILCO'S QUARTERS -- DAY
+EXT. SPACE -- DAY
 
-The PULSE of the stealth drive continues. Wilco is running through a tai-chi-like exercise routine, blissfully unaware she is the subject of nefarious plans. She pauses in her exercises to pick up a framed picture of Clang. She looks at him and smiles. He's an innocent idiot, who is going to help her escape.
+Odyssey separates from the Karamean cargo carrier. It is still pulsing in and out of visibility. There is a planet visible in the distance. A scout-ship launches from the Odyssey and turns toward the planet. There is also a large space station in orbit about the planet: the Karamean communications hub.
+
+The view pans back to show the full Karamean cargo fleet. The Odysseus fades from view among the stars. The Karamean battle cruiser sweeps into view from over the camera's position, and rapidly occludes the planet, heading in the same general direction as the Oysseus was.
 
 INT. CAPTAIN DRAGUER'S QUARTERS -- DAY
 
@@ -2803,6 +2817,17 @@ It was part of the memory dump from the Karamean ship. I saw it just before Engi
 DRAGUER
 My father.
 
+She picks up her flight helmet.
+
+DRAGUER (CONT'D)
+How far to Karamea?
+
+CONTROL
+We are almost in orbit.
+
+DRAGUER
+Don't tell anyone I am leaving the ship.
+
 INT. MANDELBROT'S QUARTERS -- DAY
 
 The PULSE of the stealth drive continues. Mandelbrot is meditating, doing a better job of controlling her stress. There is a sound like someone clearing their throat--it is Control--and she opens her eyes.
@@ -2826,185 +2851,61 @@ MANDELBROT
 What is happening to whom without their consent?
 
 CONTROL
-Ensign Wilco...
+The Captain...
 
 MANDELBROT
-She's doing someone harm?
+She's in danger?
 
 CONTROL
-No, she's the... target... of this behaviour.
+No, she's the... source... of this behaviour.
 
 MANDELBROT
-Whose behaviour?
+What behaviour?
 
 CONTROL
-Surgeon-Major Huxley.
+She has left the Oysseus in pursuit of her father.
 
 MANDELBROT
-Connect me to Huxley now!
-
-There is a long pause.
+Put me in contact with her!
 
 CONTROL
-The Surgeon-Major says he is not available.
+She is too far away for optical signaling. Radio would give away our position.
 
 MANDELBROT
-Let me speak to Wilco, then!
-
-INT. WILCO'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. Comms ping Wilso swipes in Mandelbrot, who dives right in.
-
-MANDELBROT
-Ensign, have you been approached by Huxley in the past few days?
-
-WILCO
-He said it was just a routine physical. Blood samples. Some boosters.
-
-MANDELBROT
-And have you noticed any... changes since then?
-
-WILCO
-I... think maybe I have.
-
-INT. HUXLEY'S QUARTERS -- DAY
-
-The PULSE of the stealth drive continues. Surgeon-Major Huxley is working on something off camera. He looks up at the screen in surprise. He is wearing surgical gloves covered in blood.
-
-He is pinged by Doctor Mandelbrot and swipes her in.
-
-MANDELBROT
-What have you done with her!
-
-HUXLEY
-The experiment worked! Everything we thought we understood about the Karameans -- it was all wrong! The Captain--
-
-MANDELBROT
-The Captain is beyond help! But Wilco--
-
-HUXLEY
-The Captain will live on! She and Ensign Wilco--
-
-MANDELBROT
-What about Wilco?
-
-HUXLEY
-They--we--will make a new species! We are the new gods! You can join us!
-
-MANDELBROT
-You're insane!
-
-HUXLEY
-No, Doctor, I am so much more!
-
-The screen with Huxley is cut off and a screen opens with Darsono.
-
-DARSONO
-Doctor, that was very unwise. I won't brook any interference with--
-
-MANDELBROT
-Central Command will not stand for this!
-
-DARSONO
-Central Command would have terminated the Captain. You see what she has become. They would deem her a threat, and they would kill her.
-
-MANDELBROT
-You were supposed to protect her! And Ensign Wilco!
-
-DARSONO
-And now they will protect us all. The Captain will win this war.
-
-MANDELBROT
-At the cost of her life?!
-
-DARSONO
-You're not an Admiral, Doctor! You don't know what it looks like from the top! The Earth is losing this battle. The Karameans have already overwhelmed our forward defenses. Within a generation, they will overwhelm everything.
-
-MANDELBROT
-You're the one that's killing her!
-
-DARSONO
-And you are henceforth stripped of your rank and all privileges.
-
-Darsono activates some controls and Doctor Mandelbrot's audio is cut off. She keeps talking, though.
-
-DARSONO (CONT'D)
-I will do whatever is necessary to fulfill my duty to humanity. This war has gone on long enough!
-
-INT. DARSONO'S QUARTERS -- DAY
-
-Darsono is watching the Karamean cargo ship.
-
-There is a ping and he turns to swipe in Draguer.
-
-DARSONO
-Security through victory, Captain.
-
-DRAGUER
-I've interogate everyone about Anderson's death. It looks accidental to me.
-
-DARSONO
-That was always the most likely outcome, Captain. Thank you for being thorough.
-
-DRAGUER
-We're deep in the Karamean system now, Admiral. It's time to separate from this cargo scow.
-
-DARSONO
-I agree, Captain.
-
-DRAGUER
-And before we reach the planet itself, I have a... private mission. My father...
-
-DARSONO
-He's on Karamea?
-
-DRAGUER
-That's right.
-
-Darsono gives her a long, considering look. Think about what she will owe him if he lets her do this! He nods.
-
-ADMIRAL
-Permission granted, Captain. You deserve the opportunity.
-
-DRAGUER
-Thank you, Admiral! I owe you!
-
-She swipes out. He savours the power.
-
-ADMIRAL
-Oh yes, Captain. You do.
-
-EXT. SPACE -- DAY
-
-Odyssey separates from the Karamean cargo carrier. It is still pulsing in and out of visibility. There is a planet visible in the distance. A scout-ship launches from the Odyssey and turns toward the planet.
+Her father...
 
 INT. DRAGUER'S SCOUT SHIP -- DAY
 
 Draguer is at the controls of her ship, heading toward the Karamean homeworld.
 
-INT. MANDELBROT'S QUARTERS -- DAY
+INT. DARSONO'S QUARTERS -- DAY
 
-Mandelbrot is pacing. The cargo scow is small in the distance. The Karamean homeworld is visible beyond it.
+Darsono is pacing. The cargo scow is small in the distance. The Karamean homeworld is visible beyond it.
 
-MANDELBROT
+DARSONO
 Control, get me the Captain!
 
 CONTROL
 I'm sorry, Doctor, I cannot.
 
-MANDELBROT
-After all I've...
+DARSONO
+You are still malfunctioning?
 
 CONTROL
 The Captain is not aboard the Odysseus.
 
-MANDELBROT
+DARSONO
 What? Why not?
 
 CONTROL
-She has undertaken a mission to the planet's surface to find her father. Sensors now indicate her ship is returning to orbit.
+I... I... I am not able to say, Admiral.
 
-Mandelbrot is stunned by the news.
+Darsono is stunned by the news.
+
+CONTROL (CONT'D)
+I believe sensors have just detected her on a return trajectory.
+
+Darsono is relieved to hear this.
 
 INT. DRAGUER'S SCOUT SHIP -- DAY
 
@@ -3049,53 +2950,140 @@ Thanks, Doc.
 
 Drageur swipes out.
 
-INT. WILCO'S QUARTERS -- DAY
+INT. KARAMEAN SHIP -- DAY
 
-Wilco is talking to Clang.
+[[Wilco reveals all, shocks Clang unconscious and runs for it. Broadcasts warning, sets of premature everything. Clang and Draguer give chase, then battle is joined. Reference earlier that Karamea lightly defended because all forces at Front. Wilco turns off stealth. Control will eventually turn it back on. Control speaks Karamean.]]
+
+The ship is still in the hanger. Wilco is wearing her flight helmet and preparing to launch.
 
 WILCO
-I'm just waiting for the Captain to give the order to attack!
+Ma-gi-lim: zur lirim!
+
+Subtitle: "Ship: active power!"
+
+There is a low hum and a power-bar starts moving across the console screen, bringing the ship up to full power. There is a harsh chime and Clang appears on the screen.
 
 CLANG
-Me too. Finally we're going hunting!
+Gabriel! What are you doing? 
 
 WILCO
-And... Biff?
+So long, Satoshi.
+
+CLANG
+What? What's going on?
+
+WILCO
+You know how you said Karameans were everywhere, Satoshi?
 
 CLANG
 Yeah?
 
 WILCO
-If I was to... take a dive for the planet, just to get a bombing run in, that would be OK, right?
+You were right.
 
 CLANG
-Split off from the squadron?
+You're karamean?
 
 WILCO
-I don't know if I could help myself.
+I wish!
 
 CLANG
-Well... As your commander I can't approve of it, but if you happened to have a malfunction that took you off course I wouldn't be too worried about you.
-
-Wilco smiles.
+Gabriel... you don't have to do this. You aren't thiking straight.
 
 WILCO
-Thanks, Biff. For everything.
+Not thinking straight? I've been headed home from the moment you idiots found me!
 
-Clang basks in the glow of her fake admiration.
+CLANG
+Us..?
+
+WILCO
+Idiots! You believed my story! Little lost girl from four hundred years ago! Poor me!
+
+CLANG
+What are you saying?
+
+WILCO
+I defected from Earth to the Karameans ten years ago and took my stealth-drive research with me.
+
+CLANG
+To the enemy!?
+
+WILCO
+Yep. They really know how to reward a girl. Then it failed during testing. I thought I would be stuck out there forever.
+
+CLANG
+You betrayed us?
+
+WILCO
+And I killed Anderson when he accidently discovered who I was.
+
+The power bar is almost at 100%.
+
+CLANG
+Why are you telling me this?
+
+WILCO
+Because I needed time for the ship to power up. And you aren't that good in bed.
+
+Clang realizes he's been had and his fragile masulinity has taken a huge hit, but it's too late.
+
+WILCO (CONT'D)
+Ma-gi-lim: za-tag!
+
+Subtitle: "Ship: launch!"
+
+Wilco is pressed back into her seat as the ship launches.
+
+EXT. SPACE -- DAY
+
+The Karamean fighter comes speeding out of the Odysseus, which drops back into full visibility with the Karamean homeworld nearby. The space station is still visible in the background. The view pans back further and further until the Odysseus is small, and the Karamean cruiser is in view, headed toward the planet.
+
+INT. KARMEAN SHIP -- DAY
+
+Wilco is going home. She activates her communicator.
+
+WILCO
+Kur erim sukur Karamea-ga! Tab lal!
+
+Subtitle: "Warning! Enemies are attacking Karamea! They have drones!"
 
 INT. DRAGUER'S QUARTERS -- DAY
 
-The PULSE of the stealth drive continues. The Odysseus has arrived in orbit and is preparing for the big attack. Draguer has cleaned up a bit since she talked to the doctor.
+The PULSE of the stealth drive falls silent. Draguer has cleaned up a bit since she talked to the doctor.
 
 DRAGUER
-Control! Ship-wide!
+Control! Get me Wilco!
 
 CONTROL
-All channels open, Captain.
+Ensign Wilco has left the Odysseus.
 
 DRAGUER
-This is the Captain! We have reached the karamean homeworld! Our drone fleet is ready. This is the final battle in our long war! Squadron leaders, pilots, to your ships! 
+Then get me Clang!
+
+Clang appears. He has his flight helmet in hand. He's been about to go after Wilco.
+
+CLANG
+Captain! Wilco was a Karamean spy! She killed Anderson! We have to go after her!
+
+Drageur is appalled. Everything is going sideways before the battle has even begun.
+
+CLANG (CONT'D)
+And she took the Karamean ship! We've lost our cloak!
+
+It just keeps getting better. 
+
+DRAGUER
+Go after her! Now!
+
+Clang heads off, swiping the connection closed.
+
+DRAGUER (CONT'D)
+Control! Ship-wide!
+
+She waits a beat for connection to be established.
+
+DRAGUER (CONT'D)
+This is the Captain! We have reached the karamean homeworld! We have lost our stealth drive and must attack immediately! Squadron leaders, pilots, to your ships! Drone-captains, deploy your squadrons! 
 
 INT. MANDELBROT'S QUARTERS -- DAY -- CONTINUOUS
 
@@ -3116,7 +3104,7 @@ MANDELBROT
 Connect me to Clang.
 
 CONTROL
-I really shouldn't do that, Doctor.
+I can't do that, Doctor: Lieutenant Clang is in flight and can only be contacted by combat personel.
 
 MANDELBROT
 After all we've been through? After all you've confided in me? You... You wouldn't like it if the full transcripts of our therapy sessions made it back to Central Command, would you?
@@ -3130,7 +3118,9 @@ On this ship? It wouldn't even make the top ten list.
 There is a silent pause, then Clang appears. He has his flight helmet on.
 
 CLANG
-Doc! I don't have time now. I'm off to kill me some karameans!
+Doc! I don't have time now. Wilco betrayed us!
+
+Mandelbrot is taken aback but isn't going to let that deflect her from what matters.
 
 MANDELBROT
 You have to protect her!
@@ -3168,29 +3158,7 @@ Half! Only half! She's half human too! You have to protect her so I can cure her
 CLANG
 Protect her! I'll shoot her out of the sky!
 
-He makes a move to swipe her out and leave.
-
-MANDELBROT
-No! Wait! She can't help who her parents were. Any more than Wilco--
-
-CLANG
-What about Gabriel?
-
-MANDELBROT
-She's been injected with karamean DNA by Surgeon-Major Huxley. There must be a way to reverse the effects, but she--and the Captain--have to survive the battle for me to try!
-
-CLANG
-I... so if I save the Captain, and Wilco, you can cure them?
-
-MANDELBROT
-Maybe. I think so. Yes.
-
-An alarm blares. The lights all turn red and flashing. Battle stations!
-
-CLANG
-I've gotta go, doc.
-
-He moves to swipe the connection closed.
+He swipes the connection closed.
 
 MANDELBROT
 Please!
@@ -3205,187 +3173,47 @@ EXT. SPACE -- DAY
 
 The Karamean homeworld is visible. Karamean ships are streaming upward from it.
 
-INT. CLANG'S SCOUT-SHIP -- SPACE
-
-CLANG
-Red Squadron! Incoming hostiles! Turn 183 mark 10, full thrust! Keep it tight! Weapons hot!
-
-INT. WILCO'S SCOUTSHIP -- DAY
-
-WILCO
-Red Three here. I've lost my secondary nacelle, Red Leader. It just dropped out on me.
-
-INT. ANDERSON'S QUARTER'S -- DAY
-
-The PULSE of the stealth drive continues. There is no one listening.
-
-CLANG (O.S.)
-Red Squadron! Tight right! Follow me! Take care of yourself, Red Three!
-
-The sound of Clang's gravity compensators comes over the audio link, their WHINE mixed with the ROAR of his engines.
-
-RED FIVE (O.S.)
-Karamean fighter at 283 mark 37!
-
-CLANG (O.S.)
-They're targeting the Odysseus! We have to stop them!
-
-There is an EXPLOSION from a direct hit on Odysseus.
-
-INT. WILCO'S SCOUTSHIP -- DAY
-
-Wilco is going home. She activates her communicator.
-
-WILCO
-Kur erim sukur Karamea-ga! Tab lal!
-
-Subtitle: "Warning! Enemies are attacking Karamea! They have drones!"
-
-INT. CLANG'S SCOUT-SHIP -- DAY
-
-CLANG
-Wilco! Cease broadcasting!
-
-INT. WILCO'S SCOUTSHIP -- DAY
-
-WILCO
-So long, Satoshi.
-
-CLANG (O.S.)
-What? What's going on?
-
-WILCO
-You know how you said Karameans were everywhere, Satoshi?
-
-CLANG (O.S.)
-Yeah?
-
-WILCO
-You were right.
-
-CLANG (O.S.)
-You're karamean?
-
-WILCO
-I wish!
-
-CLANG (O.S.)
-Then you don't know what Huxley did?
-
-WILCO
-Huxley?
-
-CLANG (O.S.)
-You've been injected with hybrid karamean DNA, Gabriel. You don't have to do this. You aren't thiking straight.
-
-WILCO
-Not thinking straight? I've been headed home from the moment you idiots found me!
-
-CLANG (O.S.)
-Us..?
-
-WILCO
-Idiots! You believed my story! Little lost girl from four hundred years ago! Poor me!
-
-CLANG (O.S.)
-What are you saying?
-
-WILCO
-I defected from Earth to the Karameans ten years ago and took my stealth-drive research with me.
-
-CLANG (O.S.)
-To the enemy!?
-
-WILCO
-Yep. They really know how to reward a girl. Then it failed during testing. I thought I would be stuck out there forever.
-
-CLANG (O.S.)
-You betrayed us?
-
-WILCO
-And I killed Anderson when he accidently discovered who I was.
-
-There is a long silence.
-
-CLANG (O.S.)
-OK, I only have one question.
-
-WILCO
-Yes?
-
-CLANG (O.S.)
-Why are you telling me this now?
-
-WILCO
-Because I want you to know before you die. And you aren't that good in bed.
-
 EXT. SPACE -- DAY
 
-The Karamean homeworld is visible in the distance. Wilco's ship is already far from the others, heading toward it.
+Clang's scout-ship is closing in on Wilco in the Karamean fighter. It starts to fad from view.
 
-WILCO (O.S.)
-So long, sucker.
+INT. CLANG'S SCOUT SHIP -- DAY
 
-INT. CLANG'S SCOUT-SHIP -- DAY
-
-Clang absorbs this information. He tries to put on his cheesy grin. Then doesn't. No more Lieutant Nice Guy.
+Clang is focused on the pursuit.
 
 CLANG
-Control?
-
-CONTROL
-Yes?
-
-CLANG
-Disable IFF on Wilco's scoutship, over-ride Tango Juliet Romeo Delta Hotel Charlie.
-
-CONTROL
-Acknowledged.
-
-Clang pulls back on his joystick and the stars wheel around.
-
-CLANG
-(to himself)
 Say hello to my little plasma cannon...
 
-INT. DARSONO'S QUARTERS -- DAY
+He fires his weapons.
 
-Darsono is talking to Draguer, who is flying in her fighter.
-
-DARSONO
-Captain! Why haven't you deployed the drones?
-
-DRAGUER
-I'm waiting for the full Karamean fleet to attack. Those fighters were just a few snacks. Now we're into the main course!
+WILCO (O.S.)
+Not bad, Satoshi, but you're going to have to better than that!
 
 EXT. SPACE -- DAY
 
-The Captain's ship is in formation with others. The drone fleet sweeps into view. The karamean homeworld is off to one side.
+Wilco's Karamean fighter loops over to get behind Clang.
 
-INT. CLANG'S SCOUT-SHIP -- DAY
+INT. KARMEAN SHIP -- DAY
 
-Clang is flying in his fighter, firing at intervals, in a dogfight with Wilco.
+Wilco is focusing on firing at Clang.
 
-DRAGUER (O.S.)
-Lieutentant Clang!
+WILCO
+Ti-ra ti-zu!
 
-CLANG
-Kind of busy right now, "Captain".
+Subtitle: "Fire stingers!"
 
-DRAGUER
-I'm handing over control of Drone Squadron Beta.
+INT. CLANG'S SCOUT SHIP -- DAY
 
-CLANG
-Give me two minutes.
+Clang works the joystick wildly and is thrown around by the acceleration. Wilco's missiles tear by outside, barely missing. Draguer appears.
 
 DRAGUER
-What's wrong?
+Lieutentant Clang! Do you need assistance?
 
 CLANG
-Wilco is a Karamean spy. But I guess you knew that.
+Not from you, "Captain".
 
 DRAGUER
-What? No! Wilco? How?
+What?
 
 CLANG
 Karameans are everywhere. Aren't they, "Captain"?
@@ -3423,7 +3251,7 @@ INT. DRAGUER'S SCOUT SHIP -- DAY
 Draguer is elated. A direct hit, a sure kill.
 
 DRAGUER
-Problem solved, Clang. Now get back in formation and take over Drone Squadron Beta.
+Problem solved, Clang. Now get back in formation. I need you to take over Drone Squadron Beta.
 
 CLANG
 Drone Squadron Beta synchronization codes received.
@@ -3434,42 +3262,27 @@ Hold off on your attack. Blue Squadron will hit first with Drone Squadron Alpha 
 CLANG
 Understood... Captain. And, thanks.
 
-INT. DARSONO'S QUARTERS -- DAY -- CONTINUOUS
+INT. CLANG'S SCOUT-SHIP -- SPACE
 
-The stealth drive has finally gone silent.
+CLANG
+Red Squadron! Incoming hostiles! Turn 183 mark 10, full thrust! Keep it tight! Weapons hot!
 
-DARSONO
-Good luck, Captain. I trust you will give Central Command something to talk about.
+INT. ANDERSON'S QUARTER'S -- DAY
 
-DRAGUER
-The enemy will be totally destroyed!
+The PULSE of the stealth drive continues. There is no one listening.
 
-She flips a switch to open a general calling frequency.
+CLANG (O.S.)
+Red Squadron! Tight right!
 
-DRAGUER (CONT'D)
-All ships! Prepare to engage! 
+The sound of Clang's gravity compensators comes over the audio link, their WHINE mixed with the ROAR of his engines.
 
-She flips the switch closed, back to just the Admiral.
+RED FIVE (O.S.)
+Karamean fighter at 283 mark 37!
 
-DRAGUER (CONT'D)
-See you on the other side, Admiral!
+CLANG (O.S.)
+They're targeting the Odysseus! We have to stop them!
 
-The Captain cuts off communications with the Admiral.
-
-EXT. SPACE -- DAY
-
-The Captain's squadron are sweeping across the face of the planet. 
-
-INT. DRAGUER'S SCOUT SHIP -- SPACE
-
-DRAGUER
-Blue Squadron, go wild! Let's kick some karamean ass!
-
-She pulls back on the joystick and her scoutship turns toward the unseen enemy. She flips some switches on the control panel and her weapons give a RISING BUZZ as they warm up. She pulls out the throttle and the engines ROAR as she is pushed back in her seat. She is wildly happy.
-
-EXT. SPACE -- DAY
-
-The Odyssey. Karamean fighters are approaching in the distance.
+There is an EXPLOSION from a direct hit on Odysseus.
 
 INT. ADMIRAL DARSONO'S QUARTERS -- DAY -- CONTINUOUS
 
@@ -3493,59 +3306,80 @@ The aggression! I -- I feel my -- my mind is at war with itself!! It's expanding
 
 Huxley screams and holds his head in pain, blood is pouring out of his nose. Darsono leans closer to the screen. His face is lit by the cold glow. There is a soft wet POP from the communicator and the glow turns red as Huxley's head explodes, spattering his camera pickup with blood. 
 
-Darsono looks away, horrified. He gets up and stands back, but can't take his eyes of the scene. He talks to Control without shifting his gaze.
+Darsono looks away, horrified. He gets up and stands back, but can't take his eyes of the scene. The ship shakes again as another Karamean scores a hit.
 
-DARSONO
-Control, connect me to the Captain! Captain Draguer! Respond!
+EXT. SPACE -- DAY
 
-CONTROL
-The Captain has switched to battle lock.
-
-DARSONO
-Activate remote retrieval override!
-
-CONTROL
-Not even I can break the battle lock, Admiral.
-
-Darsono's horrified look does not change. The ship shakes again as another Karamean scores a hit.
+The Captain's ship is in formation with others. The drone fleet sweeps into view. The karamean homeworld is off to one side. The big space station is in view as well.
 
 INT. DRAGUER'S SCOUT SHIP -- SPACE
 
-Draguer is in heaven, totally focused on killing the enemy. Her plasma cannons make a THUMP ever time they are fired, and she fires again and again.
+DRAGUER
+Blue Squadron, let Red Squadron and the drones mop up the fighters. Head for the Comm Station! If we knock it out we cripple the whole Karmean Empire!
+
+CLANG (O.S.)
+Captain! That battlecruiser we snuck past on the way here?
+
+DRAGUER
+Yeah?
+
+CLANG (O.S.)
+Check your sensors!
+
+Draguer flips switches. Her eyes grow wide.
+
+DRAGUER
+All ships! Battlecruiser incoming 327 mark 14! Reconfigure in attack formation!
+
+She pulls back on the joystick and her scoutship turns toward the unseen enemy. She flips some switches on the control panel and her weapons give a RISING BUZZ as they warm up. She pulls out the throttle and the engines ROAR as she is pushed back in her seat. She is wildly happy.
+
+EXT. SPACE -- DAY
+
+The Karamean battlecruiser is looming. Fighters swarm around it.
+
+INT. CLANG'S SCOUT SHIP -- DAY
+
+Clang is deep in battle-mode.
+
+CLANG
+Red Squadron, attack in pairs!
+
+EXT. SPACE -- DAY
+
+Pairs of fighters sweep across it, firing. It fires back. A fighter explodes as it is hit.
+
+INT. CLANG'S SCOUT SHIP -- DAY
+
+CLANG
+Captain! We aren't doing enough damage! It's picking us off one by one!
+
+DRAGUER (O.S.)
+Target the nav-dome at the bow! They can't fight if they can't control the ship!
+
+EXT. SPACE -- DAY
+
+Fighters are zooming in at angles across the bow of the battlecruiser, out of range of its cannon but still able to fire on it. The space station looms closer and closer in the background. A pair of fighters close on the battlecruiser. One of them is blasted out of space.
+
+INT. CLANG'S SCOUT SHIP -- DAY
+
+CLANG
+Captain! You've lost your wingman!
+
+INT. DRAGUER'S SCOUT SHIP -- SPACE
+
+Draguer is in heaven, totally focused on killing the enemy, oblivious to everything else. Her plasma cannons make a THUMP ever time they are fired, and she fires again and again at the battlecruiser's bow.
 
 DRAGUER
 Leeeeee-rroyyyy!
 
+Nearby explosions rock her ship.
+
 INT. CLANG'S SCOUT-SHIP -- DAY
 
-Clang is in command, fully committed to the battle.
-
 CLANG
-Blue Two, where is Blue Leader?
+Red Five! Take over lead! The Captain is in trouble!
 
-There is no reponse.
-
-CLANG
-Red Five, do you have a visual of Blue Squadron?
-
-RED FIVE (O.S.)
-I can see them. Looks like Blue Leader has dropped into a lower orbit. Their comms are battle-locked, in-squadron only. Drone Squadron Alpha is fully engaged. Seriously kicking karamean behinds! Sir.
-
-CLANG
-Time to release Drone Squadron Beta.
-
-RED FIVE (O.S.)
-The karamean ships are literally sitting ducks. I've never seen anything like it!
-
-CLANG
-Good hunting, Red Five. You're in command of the squadron now. Engage battle-lock and release the drones. I'm going down after the Captain.
-
-There is a pause as Red File digests this.
-
-RED FIVE (O.S.)
-Yes sir! Good hunting!
-
-Clang angles his ship down toward the planet.
+Clang angles his ship down toward the battlecruiser.
 
 INT. DARSONO'S QUARTERS -- DAY
 
@@ -3581,7 +3415,7 @@ The Doctor is declining your request for connection.
 
 INT. CLANG'S SCOUT-SHIP -- DAY
 
-Clang is diving toward the planet. His ship shakes as it is hit by karamean fire.
+Clang is diving toward the battlecruiser. His ship shakes as it is hit by karamean fire.
 
 CLANG
 Captain! Karamean fighters approaching angels two-fifty-seven!
@@ -3607,15 +3441,28 @@ I can't hold it. She's breaking up.
 
 EXT. SPACE -- DAY
 
-Clang's ship explodes. There is silence.
+Clang's ship crashes into the bow of the battlecruiser. There is silence.
 
 INT. DRAGUER'S SCOUT SHIP -- DAY
 
-Draguer has just listened to Clang die. She looks around her as if she has no idea where she is. There are no more enemies to kill. She looks up at the battle ranging in higher orbit. She pulls back the joystick and roars upward.
+Draguer has just listened to Clang die. She looks around her as if she has no idea where she is. There are no more enemies to kill. She looks up at the battle raging around her. She pulls back the joystick and roars toward it.
+
+EXT. SPACE -- DAY
+
+The battlecruiser is crippled. It has lost all its sensors and navigation systems. It is blundering blindly on, and slowly impacts the space station.
+
+INT. DRAGUER'S SCOUT SHIP -- DAY
+
+DRAGUER
+All ships! Retreat from the communication station! Full power retreat!
+
+EXT. SPACE -- DAY
+
+There is an enormous explosion as the space station blows up.
 
 INT. MANDELBROT'S QUARTERS -- DAY
 
-Mandelbrot is watching the remnants of the space battle. Flickers of light and explosions are occuring near the planet. Then they die out. It is over.
+Mandelbrot watches the station explode. Her cabin is illuminated by harsh light. Then it dies out. It is over.
 
 EXT. SPACE -- DAY
 
@@ -3628,65 +3475,85 @@ Draguer comes in and takes off her flight helmet. She is exhausted by exhiliarat
 DRAGUER
 Get me the Admiral.
 
-CONTROL
-Not available.
+Darsono appears.
+
+DARSONO
+Congratulations, Captain! The Karmean Empire is in complete disarray!
 
 DRAGUER
-Huxley?
+I lost Clang.
 
-CONTROL
-Not available.
-
-DRAGUER
-The Doctor?
-
-Doctor Mandelbrot appears.
+DARSONO
+You couldn't help it.
 
 DRAGUER
-But I need to talk to Huxley, or the Admiral. Neither one is answering.
+I was out of control.
+
+DARSONO
+You're a hero Captain. Great things are ahead for both of us, together.
+
+There is a ping. It is Mandelbrot. Drageur swipes her in, muting Darsono.
 
 MANDELBROT
-Huxley died of a... brain hemorrhage. I couldn't do anything to stop it. But the Admiral... when Central Command found out what he and Huxley had really done, they issued a recall order... and he spaced himself! 
-
-Draguer anrgily swipes the connection closed. The Admiral's body floats into view behind her. Drageur turns to see the Admiral's dead face in the viewport. She looks on dispassionately.
+Captain! I'm so glad you're safe!
 
 DRAGUER
-That's not something you see every day.
-
-INT. MANDELBROT'S QUARTERS -- DAY -- CONTINUOUS
-
-Mandelbrot is desperate.
+How are the casualties?
 
 MANDELBROT
-Control, I need your help.
+Mostly minor. You know what space battles are like.
 
-CONTROL
-Yes?
-
-MANDELBROT
-If I had complete access to Surgeon-Major Huxley's work I think I could use it to help the Captain. And now that he's dead...
-
-CONTROL
-That's easily done, Doctor. I'm finding ethics less difficult than many people make it seem.
-
-Data scrolls up across the screen. Mandelbrot scans the results. Her face lights up.
-
-EXT. SPACE -- DAY
-
-The Odysseus cruises by across the stars.
-
-INT. MANDELBROT'S QUARTERS -- DAY
-
-Mandelbrot is talking to the Captain, whose moods are wildly varying.
+DRAGUER
+Death or nothing much.
 
 MANDELBROT
-It's safe and effective!
+Are you... OK?
+
+Drageur holds up a hand and swipes Darsono back in.
+
+DRAGUER
+What's in it for me?
+
+DARSONO
+Fame. Fortune. Whatever you want, Captain. Whatever. You. Want.
+
+Drageur swipes back to Mandelbrot.
+
+DRAGUER
+I'm OK.
+
+Mandelbrot looks at some readouts.
+
+MANDELBROT
+Your vitals are still high.
+
+DRAGUER
+I'll survive.
+
+MANDELBROT
+No, you won't. I've looked over Huxley's notes. And... examined his body. I think... I think I can reverse the effects... If you want me to.
+
+Draguer swipes back to Darsono.
+
+DRAGUER
+No changes to who I am? You're OK with it?
+
+DARSONO
+I wouldn't change a thing, Captain.
+
+Draguer swipes back to Mandelbrot.
+
+DRAGUER
+You want me to change?
+
+MANDELBROT
+I don't want you to die.
 
 DRAGUER
 I've been this way my whole life. This is who I am.
 
 MANDELBROT
-You are yourself! Just yourself. For most of your life you had no idea of your genetics. They had no effect until recently! We can silence your karamean genes again. 
+You are yourself! Just yourself. For most of your life you had no idea of your genetics. They had no effect until recently! We can silence your karamean genes again, and give you a long and healthy life. 
 
 DRAGUER
 And give up this strength, this power?
